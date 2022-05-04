@@ -1,4 +1,11 @@
-### Hi there 👋
+## Chuang Bing Cheng #tars3017
+---
+## Current Status
+* :school_satchel: WLSH 3nd
+* :rocket: Still practicing competitive programming
+* :keyboard: Neovim user and still learning
+* :pager: Learning how to build an website with the course CS50w
+* :desktop_computer: Use Debian but still exploring
 
 <!--
 **tars3017/tars3017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
