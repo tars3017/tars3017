@@ -1,11 +1,11 @@
 ## Chuang Bing Cheng #tars3017
 ---
 ## Current Status
-* :school_satchel: WLSH 3nd
-* :rocket: Still practicing competitive programming
-* :keyboard: Neovim user and still learning
+* :school_satchel: WLSH 3nd ---> NTHU EECS
+* :rocket: competitive programming rookie
+* :keyboard: neovim user
 * :pager: Learning how to build an website with the course CS50w
-* :desktop_computer: Use Debian but still exploring
+* :desktop_computer: Debian
 
 <!--
 **tars3017/tars3017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
