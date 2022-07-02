@@ -1,7 +1,7 @@
 ## Chuang Bing Cheng #tars3017
 ---
 ## Current Status
-* :school_satchel: WLSH 3nd ---> NTHU EECS
+* :notebook: WLSH 3rd ---> NTHU EECS
 * :rocket: competitive programming rookie
 * :keyboard: neovim user
 * :pager: Learning how to build an website with the course CS50w
